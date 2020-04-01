@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: [Covid19 Support Group System]
-description: [Covid19 Support Group Materials]
-logo: [logo.png]
-show_downloads: ["true"]
+title: Covid19 Support Group System
+description: Covid19 Support Group Materials
+logo: logo.png
+show_downloads: "true"
