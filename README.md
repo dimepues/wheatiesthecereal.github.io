@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 Image
 
-[Image](/assets/img/logo.png)
+![Image](/assets/img/logo.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
