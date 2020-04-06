@@ -16,4 +16,4 @@ Thank you, thank you, thank you.
 _**Ian Sliney**_
 
 
-Base theme by https://github.com/orderedlist
+Base theme by [https://github.com/orderedlist](https://github.com/orderedlist)
