@@ -13,21 +13,21 @@ In depth training for volunteers in a coherent and organized manner using standa
 
 ![](/assets/img/Volunteer_Coordination_SOPs.jpg)
 
-[⬇ Management Process Flows & SOPs ⬇](/assets/docs/GENERIC_Process_Flow_&_SOPs.pptx)
+[⬇ Management Process Flows & SOPs⬇](/assets/docs/GENERIC_Process_Flow_&_SOPs.pptx)
 
 Volunteer Onboarding Briefing Materials
 Volunteers need a structured onboarding to ensure they are trained in approved infection protection while running errands.
 
 ![](/assets/img/Volunteer_Onboarding_Briefing_Materials.jpg)
 
-[⬇ Volunteer Onboarding Briefing Materials ⬇](/assets/docs/GENERIC_Volunteer_Onboarding_Memo.docx)
+[⬇ Volunteer Onboarding Briefing ⬇](/assets/docs/GENERIC_Volunteer_Onboarding_Memo.docx)
 
 Command Center Coordination Spreadsheet
 This sheet will help keep track of requests and individuals fulfilling the requests. Only individuals who have been oriented on privacy and confidentiality will get access to this document.
 
 ![Image](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
 
-[⬇ Command Center Coordination Spreadsheet ⬇](/assets/docs/Command_Center_Coordination.xlsx)
+[⬇ Command Center Coordination ⬇](/assets/docs/Command_Center_Coordination.xlsx)
 
 Volunteer Grocery Shopping SOPs
 Standard protocols for safe shopping by volunteers need to be set up with grocery store management.
@@ -41,4 +41,4 @@ Those at risk and future volunteers need to know that the community support grou
 
 ![Image](/assets/img/Volunteer_Support_Printable_Flyer.jpg)
 
-[⬇ Printable Flyer ⬇](/assets/docs/GENERIC_Flyer_v1.pptx)
+[⬇ Flyer ⬇](/assets/docs/GENERIC_Flyer_v1.pptx)
