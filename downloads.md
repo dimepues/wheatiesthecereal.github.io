@@ -5,18 +5,22 @@
 Organizational Chart
 Sample organizational chart to set up a coordination network in your community.
 
-![](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
+![image](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
+<p>
 [⬇ Download Chart ⬇](/assets/docs/Command_Center_Coordination.xlsx)
 
 In depth training for volunteers in a coherent and organized manner using standard operating procedures. This guarantees responsiveness to demand and the personal safety of the at-risk and volunteers alike.
 
-![Image](/assets/img/Volunteer_Coordination_SOPs.jpg)
+![](/assets/img/Volunteer_Coordination_SOPs.jpg)
+
+
 [⬇ Download Management Process Flows & SOPs ⬇](/assets/docs/GENERIC_Process_Flow_&_SOPs.pptx)
 
 Volunteer Onboarding Briefing Materials
 Volunteers need a structured onboarding to ensure they are trained in approved infection protection while running errands.
 
-![Image](/assets/img/Volunteer_Onboarding_Briefing_Materials.jpg)
+![](/assets/img/Volunteer_Onboarding_Briefing_Materials.jpg)
+
 [⬇ Download Volunteer Onboarding Briefing Materials ⬇](/assets/docs/GENERIC_Volunteer_Onboarding_Memo.docx)
 
 Command Center Coordination Spreadsheet
