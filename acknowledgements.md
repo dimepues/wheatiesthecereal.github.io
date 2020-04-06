@@ -18,3 +18,9 @@ _**Ian Sliney**_
 ------------------
 
 Base theme by [https://github.com/orderedlist](https://github.com/orderedlist)
+
+Tools using: 
+
+[GitHub Pages](https://pages.github.com/)
+[Visual Studio Code](https://code.visualstudio.com/)
+[Cloudflare CDN](https://www.cloudflare.com/)
