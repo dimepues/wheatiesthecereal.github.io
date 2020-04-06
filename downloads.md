@@ -27,7 +27,7 @@ This sheet will help keep track of requests and individuals fulfilling the reque
 
 ![Image](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
 
-[⬇ Download Command Center Coordination Spreassheet ⬇](/assets/docs/Command_Center_Coordination.xlsx)
+[⬇ Download Command Center Coordination Spreadsheet ⬇](/assets/docs/Command_Center_Coordination.xlsx)
 
 Volunteer Grocery Shopping SOPs
 Standard protocols for safe shopping by volunteers need to be set up with grocery store management.
