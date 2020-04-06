@@ -20,7 +20,7 @@ Volunteers need a structured onboarding to ensure they are trained in approved i
 
 ![](/assets/img/Volunteer_Onboarding_Briefing_Materials.jpg)
 
-[⬇ Download Volunteer Onboarding Briefing Materials ⬇](/assets/docs/GENERIC_Volunteer_Onboarding_Memo.docx)
+[⬇ Download Volunteer Onboarding Briefing ⬇](/assets/docs/GENERIC_Volunteer_Onboarding_Memo.docx)
 
 Command Center Coordination Spreadsheet
 This sheet will help keep track of requests and individuals fulfilling the requests. Only individuals who have been oriented on privacy and confidentiality will get access to this document.
