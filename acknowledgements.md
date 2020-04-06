@@ -17,7 +17,9 @@ _**Ian Sliney**_
 
 ------------------
 
-Base theme by [https://github.com/orderedlist](https://github.com/orderedlist)
+Jekyll Theme by: 
+
+[https://github.com/orderedlist](https://github.com/orderedlist)
 
 Tools : 
 
