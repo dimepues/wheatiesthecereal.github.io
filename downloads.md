@@ -5,14 +5,13 @@
 Organizational Chart
 Sample organizational chart to set up a coordination network in your community.
 
-![](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
-<p>
+![](/assets/img/Volunteer_Coordination_SOPs.jpg)
+
 [⬇ Download Management Process Flows & SOPs ⬇](/assets/docs/GENERIC_Process_Flow_&_SOPs.pptx)
 
 In depth training for volunteers in a coherent and organized manner using standard operating procedures. This guarantees responsiveness to demand and the personal safety of the at-risk and volunteers alike.
 
 ![](/assets/img/Volunteer_Coordination_SOPs.jpg)
-
 
 [⬇ Download Management Process Flows & SOPs ⬇](/assets/docs/GENERIC_Process_Flow_&_SOPs.pptx)
 
