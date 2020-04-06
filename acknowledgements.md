@@ -19,7 +19,7 @@ _**Ian Sliney**_
 
 Jekyll Theme by: 
 
-[https://github.com/orderedlist](https://github.com/orderedlist)
+[orderedlist](https://github.com/orderedlist)
 
 Tools : 
 
