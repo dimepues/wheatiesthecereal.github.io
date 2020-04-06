@@ -1,4 +1,54 @@
-## Welcome to Covid19 Support Group System
+## Downloads
+
+
+
+Organizational Chart
+Sample organizational chart to set up a coordination network in your community.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Chart ⬇)
+
+In depth training for volunteers in a coherent and organized manner using standard operating procedures. This guarantees responsiveness to demand and the personal safety of the at-risk and volunteers alike.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Management Process Flows & SOPs ⬇)
+
+Volunteer Onboarding Briefing Materials
+Volunteers need a structured onboarding to ensure they are trained in approved infection protection while running errands.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Volunteer Onboarding Briefing Materials ⬇)
+
+Command Center Coordination Spreadsheet
+This sheet will help keep track of requests and individuals fulfilling the requests. Only individuals who have been oriented on privacy and confidentiality will get access to this document.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Command Center Coordination Spreassheet ⬇)
+
+Volunteer Grocery Shopping SOPs
+Standard protocols for safe shopping by volunteers need to be set up with grocery store management.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Grocery Shopping SOPs ⬇)
+
+Volunteer Support Printable Flyer
+Those at risk and future volunteers need to know that the community support group has been setup and be able to get in touch.
+
+![Image](/assets/img/logo.png)
+[Link](⬇ Download Printable Flyer ⬇)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/wheatiesthecereal/wheatiesthecereal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
