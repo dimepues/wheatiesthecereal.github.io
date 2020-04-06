@@ -25,7 +25,7 @@ Volunteers need a structured onboarding to ensure they are trained in approved i
 Command Center Coordination Spreadsheet
 This sheet will help keep track of requests and individuals fulfilling the requests. Only individuals who have been oriented on privacy and confidentiality will get access to this document.
 
-![Image](/assets/img/Volunteer_Coordination_SOPs.jpg)
+![Image](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
 [⬇ Download Command Center Coordination Spreassheet ⬇](/assets/docs/Command_Center_Coordination.xlsx)
 
 Volunteer Grocery Shopping SOPs
