@@ -26,18 +26,21 @@ Command Center Coordination Spreadsheet
 This sheet will help keep track of requests and individuals fulfilling the requests. Only individuals who have been oriented on privacy and confidentiality will get access to this document.
 
 ![Image](/assets/img/Command_Center_Coordination_Spreadsheet.jpg)
+
 [⬇ Download Command Center Coordination Spreassheet ⬇](/assets/docs/Command_Center_Coordination.xlsx)
 
 Volunteer Grocery Shopping SOPs
 Standard protocols for safe shopping by volunteers need to be set up with grocery store management.
 
 ![Image](/assets/img/Volunteer_Grocery_Shopping_SOPs.jpg)
+
 [⬇ Download Grocery Shopping SOPs ⬇](/assets/docs/GENERIC_Grocery_Shopping_Guide_SOP.docx)
 
 Volunteer Support Printable Flyer
 Those at risk and future volunteers need to know that the community support group has been setup and be able to get in touch.
 
 ![Image](/assets/img/Volunteer_Support_Printable_Flyer.jpg)
+
 [⬇ Download Printable Flyer ⬇](/assets/docs/GENERIC_Flyer_v1.pptx)
 
 
