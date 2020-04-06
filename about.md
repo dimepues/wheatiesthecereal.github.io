@@ -16,4 +16,5 @@ This simple, uncomplicated system was designed for use by the elderly who are no
 We have put all the materials we developed on this website, and we invite all communities in the United States to download and make use of them. Please consult with your local health department to include information specific to your region.
 
 # Contact
-If you have any questions, suggestions, or need further assistance customizing our materials, please contact us at volunteers@twistysystems.com. We will be happy to speak with you by phone, video conference or email to help setup your coordinated mechanism.
+If you have any questions, suggestions, or need further assistance customizing our materials, please contact us at 
+[volunteers@twistysystems.com](mailto:volunteers@twistysystems.com). We will be happy to speak with you by phone, video conference or email to help setup your coordinated mechanism.
