@@ -1,6 +1,3 @@
-
-Click [Downloads](index.html) to get started 
-
 # About
 
 In response to the unprecedented global crisis we face with the Covid-19 pandemic, we have built a very simple system that helps to keep at-risk people safe from SARS COV-2 infection.
