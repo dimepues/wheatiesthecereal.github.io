@@ -2,11 +2,13 @@
 
 These materials have been developed by a Covid-19 community support group in consultation with the Fairfax County Health Department.
 
-## Welcome to Covid19 Support Group System
+Click [Downloads](index.html) to get started 
 
-[downloads](index.html)
+## COVID-19 COMMUNITY SUPPORT GROUP MATERIALS
 
-[about](index.html)
+[Downloads](index.html)
+
+[About](index.html)
 
 [Acknowledgements](index.html)
 
