@@ -15,5 +15,6 @@ Thank you, thank you, thank you.
 
 _**Ian Sliney**_
 
+Technical Attribution
 
 Base theme by [https://github.com/orderedlist](https://github.com/orderedlist)
