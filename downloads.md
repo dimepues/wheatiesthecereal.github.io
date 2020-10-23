@@ -37,7 +37,7 @@ Standard protocols for safe shopping by volunteers need to be set up with grocer
 [⬇Grocery Shopping SOPs⬇](/assets/docs/GENERIC_Grocery_Shopping_Guide_SOP.docx)
 
 Volunteer Support Printable Flyer
-Those at risk and future volunteers need to know that the community support group has been setup and be able to get in touch.
+Those at risk and future volunteers need to know that the community support group has been setup and be able to get in touch. [TEST]
 
 ![Image](/assets/img/Volunteer_Support_Printable_Flyer.jpg)
 
