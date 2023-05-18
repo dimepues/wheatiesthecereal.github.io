@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to https://wheatiesthecereal.github.io!
+Welcome to https://wheatiesthecereal.github.io !
 
 These materials have been developed by a Covid-19 community support group in consultation with the Fairfax County Health Department.
 
